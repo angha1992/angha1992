@@ -20,13 +20,16 @@ I am passionate about Data Science and Machine Learning, with hands-on experienc
 
 ## 🚀 Featured Projects
 
-- 🧠 Brain Tumor MRI Classification — CNN / ResNet50
-- 💳 Fraud Detection — Machine Learning & SMOTE
-- 📉 Customer Churn Prediction
-- 😊 Sentiment Analysis — NLP
-- 🏧 ATM Cash Withdrawal Prediction — ANN
-- 👥 Customer Segmentation — PCA & Clustering
+## 🚀 Featured Data Science Projects
 
+- 🧠 **Brain Tumor MRI Classification** | ResNet50 Transfer Learning
+- 💳 **Credit Card Fraud Detection** | SMOTE & Random Forest
+- 💬 **Customer Sentiment Analysis** | NLP & Machine Learning
+- 🏧 **ATM Cash Withdrawal Prediction** | ANN Regression
+- 📊 **Power BI Dashboard** | Data Analytics & Visualization
+- 🛒 **Grocery Store Management System** | SQL & MySQL
+- 📈 **Exploratory Data Analysis** | Python & Data Visualization
+- 🍷 **Wine Quality Prediction** | Machine Learning
 ## 📊 What I'm Learning
 
 - Advanced Machine Learning
