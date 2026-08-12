@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Angha Gaikwad
 
-<!--
-**angha1992/angha1992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science | Machine Learning | Deep Learning | NLP
 
-Here are some ideas to get you started:
+I am passionate about Data Science and Machine Learning, with hands-on experience building end-to-end projects using Python and SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- Python
+- SQL
+- Pandas & NumPy
+- Matplotlib & Seaborn
+- Scikit-learn
+- TensorFlow & Keras
+- Machine Learning
+- Deep Learning
+- NLP
+- Power BI
+- Streamlit
+
+## 🚀 Featured Projects
+
+- 🧠 Brain Tumor MRI Classification — CNN / ResNet50
+- 💳 Fraud Detection — Machine Learning & SMOTE
+- 📉 Customer Churn Prediction
+- 😊 Sentiment Analysis — NLP
+- 🏧 ATM Cash Withdrawal Prediction — ANN
+- 👥 Customer Segmentation — PCA & Clustering
+
+## 📊 What I'm Learning
+
+- Advanced Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Generative AI
+- Data Analytics
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/angha-gaikwad-b105367a)
