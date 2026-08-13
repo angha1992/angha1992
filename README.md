@@ -1,43 +1,41 @@
-# Hi 👋 I'm Angha Gaikwad
+# 👋 Hi, I'm Angha Gaikwad
 
-### Data Science | Machine Learning | Deep Learning | NLP
+### 📊 Data Science | Machine Learning | Deep Learning | NLP | Power BI
 
-I am passionate about Data Science and Machine Learning, with hands-on experience building end-to-end projects using Python and SQL.
+I am passionate about Data Science and Machine Learning, with hands-on experience building end-to-end projects using Python, SQL, and modern data science tools.
 
 ## 🛠️ Skills
 
-- Python
-- SQL
-- Pandas & NumPy
-- Matplotlib & Seaborn
-- Scikit-learn
-- TensorFlow & Keras
-- Machine Learning
-- Deep Learning
-- NLP
-- Power BI
-- Streamlit
+- 🐍 Python
+- 🗄️ SQL
+- 📊 Pandas & NumPy
+- 📈 Matplotlib & Seaborn
+- 🤖 Scikit-learn
+- 🧠 TensorFlow & Keras
+- 🔬 Machine Learning
+- 🧠 Deep Learning
+- 💬 NLP
+- 📊 Power BI
+- 🚀 Streamlit
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Data Science Projects
+### 🧠 Brain Tumor MRI Classification
+Deep Learning project using **CNN, ResNet50, and Transfer Learning** for brain MRI image classification.
 
-- 🧠 **Brain Tumor MRI Classification** | ResNet50 Transfer Learning
-- 💳 **Credit Card Fraud Detection** | SMOTE & Random Forest
-- 💬 **Customer Sentiment Analysis** | NLP & Machine Learning
-- 🏧 **ATM Cash Withdrawal Prediction** | ANN Regression
-- 📊 **Power BI Dashboard** | Data Analytics & Visualization
-- 🛒 **Grocery Store Management System** | SQL & MySQL
-- 📈 **Exploratory Data Analysis** | Python & Data Visualization
-- 🍷 **Wine Quality Prediction** | Machine Learning
-## 📊 What I'm Learning
+### 💳 Credit Card Fraud Detection
+Machine Learning project using **SMOTE and Random Forest** to handle class imbalance and detect fraudulent transactions.
 
-- Advanced Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Generative AI
-- Data Analytics
+### 💬 Customer Sentiment Analysis
+NLP and Machine Learning project for classifying customer reviews into **positive and negative sentiment**.
+
+### 🎬 IMDb Movie Sales Analysis
+Power BI project analyzing **genres, ratings, revenue, budgets, and movie performance**.
+
+### 🏧 ATM Cash Withdrawal Prediction
+ANN regression project for predicting ATM cash withdrawal amounts using historical and temporal features.
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/angha-gaikwad-b105367a)
+- 💼 [LinkedIn](https://www.linkedin.com/in/angha-gaikwad-b105367a/)
+- 🐙 GitHub: You're already here!
